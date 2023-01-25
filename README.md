@@ -7,7 +7,9 @@ major cities. I chose the cities Seattle, New York and Los Angeles. These were c
 of how different there geographic location is but also how different their college cultures are.
 
 The first image we will look at is the one for the Seattle Area
-[This Image](img/udistrictwordart.png)
+
+[Seattle](https://github.com/NobuLNL/GEOGLAB2REPO/blob/ec3c5b1abf8e89b07983c7772d3a323c68a85824/img/UDistrictWordArt.png)
+
 as you can see, several of the words in the word cloud are ones that you would expect in any sentence
 whether it was related to college or not. But if we take a closer look there are some words that 
 stick out as pretty unique such as:
@@ -18,7 +20,7 @@ stick out as pretty unique such as:
 
 The rest of the cloud looks to be pretty standard stuff. But it is interesting to see the differences
 when we look at the word cloud for New York.
-[New York](img/manhattanwordart.png)
+[New York](https://github.com/NobuLNL/GEOGLAB2REPO/blob/ec3c5b1abf8e89b07983c7772d3a323c68a85824/img/ManhattanWordArt.png)
 In this word cloud we can see more of the standard words that are usually there for the word cloud
 that was for Seattle. But if we look closer we can see that there are some differences
 - Basketball is noticeably bigger than football
@@ -28,7 +30,7 @@ that was for Seattle. But if we look closer we can see that there are some diffe
 
 Finally we should be looking at Los Angeles' word cloud. This one happens to share some aspects
 of both Seattle and New York. 
-[Los Angeles](img/LosAngelesWordArt.png)
+[Los Angeles](https://github.com/NobuLNL/GEOGLAB2REPO/blob/ec3c5b1abf8e89b07983c7772d3a323c68a85824/img/LosAngelesWordArt.png)
 When we look at the Los Angeles word cloud we can see that basketball yet again is much larger
 than football. We will get back to this in a second but lets look at some of the words again
 - Basketball is larger than football
